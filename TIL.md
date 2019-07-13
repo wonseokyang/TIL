@@ -15,8 +15,8 @@ I think that to use typora helps for my software and english skill.
 #### 9 : make a solution in N-Rooks
 
 - [indexOf vs for-loop](https://medium.com/@mrashes2/indexof-vs-for-loop-6a9f7bd5c646)
-- How about complexity in **2 indexOf**?
-- Find a single N-Rooks solution
+- How about complexity in **2 indexOf function**? <!--It is not high, discuss on 7.13-->
+- Find a single N-Rooks solution <!--It looks like wrong solution, discuss on 7.13-->
 - Understand permutation matrix and create this in javascript
 
 Understanding permutation algorithm is very hard to me,  but I don't give up.
@@ -24,8 +24,8 @@ Understanding permutation algorithm is very hard to me,  but I don't give up.
 #### 10 : Very hard to solve N-Queens algorithm
 
 - To solve N-Queens, we must understands N-Rooks algorithm
-- N-Rooks looks like *permutation matrix*, but I want to solve to other ways
-- First of all, the solution of N-Queens is connected N-Rooks algorithm
+- N-Rooks looks like *permutation matrix*, but I want to solve to other ways <!--It looks like wrong solution, discuss on 7.13-->
+- First of all, the solution of N-Queens is connected N-Rooks algorithm <!--It looks like wrong solution, discuss on 7.13-->
 - Therefore, the time complexity of N-Queens is expected to be very high (However, I did not measure it)
 - `Array.from({length: 4}) === [undefined, undefined, undefined, undefined] ` is *true*
 
@@ -36,9 +36,22 @@ And Tomorrow, I will learn another things for React.js.
 #### 11 : Prepare about this, Prototype for Interview
 
 - `this` does not refer to itself (function)
-- `this` does not refer to functional lexical scope
-- `this` is binding at runtime, not at created time
-- `this` is determined by the context at the time of the function call
+- `this` does not refer to *functional lexical scope*
+- `this` is binding at *runtime*, not at created time
+- `this` is determined by the context at *the time of the function call*
 
-`this` is not an easy topic in JavaScript. This time, I want to learn `this` perfectly.
+`this` is not an easy topic in JavaScript. This time, I want to learn `this` perfectly. Everything is up to me.
+
+#### 12: Prepare job profile
+
+Today, I prepared my job profile and so I did almost nothing.
+
+#### 13 : N-Queens Day
+
+- To solve N-Queens algorithm, I realized that we must not use permutation matrix
+- **Backtracking** is one of best solution in N-Queens problem (Algorithms - Sprint Review)
+- Learn *how to module* a function (Algorithms - Sprint Review)
+- I used **2 indexOf function** in rowConflict, today I realized it was nice code
+
+The strategy that we make is not a solution, but a wrong answer. He said, It looks like `makeNRooksSolution() ` instead of `findNRooksSolution()`. I think that to solve this algorithm, we did not know what the meaning of the solution really was.
 
