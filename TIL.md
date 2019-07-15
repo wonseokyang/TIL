@@ -57,16 +57,23 @@ The strategy that we make is not a solution, but a wrong answer. He said, It loo
 
 #### 14 . Online interview
 
-- Why eslint recommend `i += 1` better than `i++`?
+- Why eslint recommend `i += 1` better than `i++`
 - **Babel** is a JavaScript compiler
   - It is a toolchain that is mainly used to convert ECMAScript 
     2015+ code into a backwards compatible version of JavaScript in current 
     and older browsers or environments.
   - We maybe add polyfills for what babel missed
+- What is [CSS3 Animation(key frame)](https://webclub.tistory.com/482)
+- I forgot the keyword *payload*, it is used for HTTP requests
 
 The interview with *gomi corporation* was very good experience for me. It was not hard, but soft. The day after tomorrow, I will finally meet directors of *gomi corp* and I am expecting for this meeting.
 
 #### 15 . Web Architecture
 
-- 
+- How to operate **HTTP request** (GET, POST)
+- How to read API docs
+- I am used to`document.createElement('div');`
+- `<input>` & `<textarea>` does not work with innerHTML method, but value.
+
+Today I learned how to operate Client & Server. I will use server API, and maybe It's not easy.
 
