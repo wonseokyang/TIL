@@ -2,7 +2,7 @@
 
 ## 7
 
-#### 8 : Start TIL
+#### 8 . Start TIL
 
 - Set *github repo* for TIL
 - Create an *Alias* for typora in `.bash_profile`
@@ -12,7 +12,7 @@
 
 I think that to use typora helps for my software and english skill.
 
-#### 9 : make a solution in N-Rooks
+#### 9 . make a solution in N-Rooks
 
 - [indexOf vs for-loop](https://medium.com/@mrashes2/indexof-vs-for-loop-6a9f7bd5c646)
 - How about complexity in **2 indexOf function**? <!--It is not high, discuss on 7.13-->
@@ -21,7 +21,7 @@ I think that to use typora helps for my software and english skill.
 
 Understanding permutation algorithm is very hard to me,  but I don't give up.
 
-#### 10 : Very hard to solve N-Queens algorithm
+#### 10 . Very hard to solve N-Queens algorithm
 
 - To solve N-Queens, we must understands N-Rooks algorithm
 - N-Rooks looks like *permutation matrix*, but I want to solve to other ways <!--It looks like wrong solution, discuss on 7.13-->
@@ -33,7 +33,7 @@ I have a weakness for these algorithms. It was very hard work and new challenge 
 
 And Tomorrow, I will learn another things for React.js.
 
-#### 11 : Prepare about this, Prototype for Interview
+#### 11 . Prepare about this, Prototype for Interview
 
 - `this` does not refer to itself (function)
 - `this` does not refer to *functional lexical scope*
@@ -42,11 +42,11 @@ And Tomorrow, I will learn another things for React.js.
 
 `this` is not an easy topic in JavaScript. This time, I want to learn `this` perfectly. Everything is up to me.
 
-#### 12: Prepare job profile
+#### 12 . Prepare Job Profile
 
 Today, I prepared my job profile and so I did almost nothing.
 
-#### 13 : N-Queens Day
+#### 13 . N-Queens Day
 
 - To solve N-Queens algorithm, I realized that we must not use permutation matrix
 - **Backtracking** is one of best solution in N-Queens problem (Algorithms - Sprint Review)
@@ -54,4 +54,19 @@ Today, I prepared my job profile and so I did almost nothing.
 - I used **2 indexOf function** in rowConflict, today I realized it was nice code
 
 The strategy that we make is not a solution, but a wrong answer. He said, It looks like `makeNRooksSolution() ` instead of `findNRooksSolution()`. I think that to solve this algorithm, we did not know what the meaning of the solution really was.
+
+#### 14 . Online interview
+
+- Why eslint recommend `i += 1` better than `i++`?
+- **Babel** is a JavaScript compiler
+  - It is a toolchain that is mainly used to convert ECMAScript 
+    2015+ code into a backwards compatible version of JavaScript in current 
+    and older browsers or environments.
+  - We maybe add polyfills for what babel missed
+
+The interview with *gomi corporation* was very good experience for me. It was not hard, but soft. The day after tomorrow, I will finally meet directors of *gomi corp* and I am expecting for this meeting.
+
+#### 15 . Web Architecture
+
+- 
 
