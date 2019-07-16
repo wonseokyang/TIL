@@ -27,7 +27,7 @@ Understanding permutation algorithm is very hard to me,  but I don't give up.
 - N-Rooks looks like *permutation matrix*, but I want to solve to other ways <!--It looks like wrong solution, discuss on 7.13-->
 - First of all, the solution of N-Queens is connected N-Rooks algorithm <!--It looks like wrong solution, discuss on 7.13-->
 - Therefore, the time complexity of N-Queens is expected to be very high (However, I did not measure it)
-- `Array.from({length: 4}) === [undefined, undefined, undefined, undefined] ` is *true*
+- `Array.from({length: 4})` => `[undefined, undefined, undefined, undefined] ` 
 
 I have a weakness for these algorithms. It was very hard work and new challenge for my code level.
 
@@ -66,7 +66,7 @@ The strategy that we make is not a solution, but a wrong answer. He said, It loo
 - What is [CSS3 Animation(key frame)](https://webclub.tistory.com/482)
 - I forgot the keyword *payload*, it is used for HTTP requests
 
-The interview with *gomi corporation* was very good experience for me. It was not hard, but soft. The day after tomorrow, I will finally meet directors of *gomi corp* and I am expecting for this meeting.
+The online interview with *gomi corporation* was very good experience for me. It was not hard, but soft. The day after tomorrow, I will finally meet directors of *gomi corp* and I am expecting for this meeting.
 
 #### 15 . Web Architecture
 
@@ -75,5 +75,12 @@ The interview with *gomi corporation* was very good experience for me. It was no
 - I am used to`document.createElement('div');`
 - `<input>` & `<textarea>` does not work with innerHTML method, but value.
 
-Today I learned how to operate Client & Server. I will use server API, and maybe It's not easy.
+Today I learned how to operate Client & Server. I must know how to read API docs and what gives from API. And then I will request resources from server API and use them. Maybe It's not easy. 
+
+#### 16 . Technical Interview
+
+- How to proceed technical interview : coding test + role playing
+- **Type check problem** (Run.js)
+
+Today I took technical interview with *gomi corp*. I think it was very good experience, because it was my first technical interview. So, I did nothing today. zzz...
 
