@@ -86,7 +86,7 @@ Today I took technical interview with *gomi corp*. I think it was very good expe
 
 #### 17 . HTML, CSS, JS
 
-- [`input type="submit"` vs `button](https://webdir.tistory.com/421)`
+- [`input type="submit"` vs `button`](https://webdir.tistory.com/421)
 - To make a chat room with scroll, I used *overflow* and *height* properties in CSS and typed simple JS codes that *scrolltop* is same with *scrollheight* : `chat.scrollTop = chat.scrollHeight;`
 
 To proceed a chatterbox splint is not difficult and funny. My team made a plan that makes the chatterbox with many functions. So, I'm afraid but curious about the chatterbox's quality.
