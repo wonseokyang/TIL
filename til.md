@@ -12,7 +12,7 @@
 
 I think that to use typora helps for my software and english skill.
 
-#### 9 . make a solution in N-Rooks
+#### 9 . Make a solution in N-Rooks
 
 - [indexOf vs for-loop](https://medium.com/@mrashes2/indexof-vs-for-loop-6a9f7bd5c646)
 - How about complexity in **2 indexOf function**? <!--It is not high, discuss on 7.13-->
@@ -80,7 +80,7 @@ Today I learned how to operate Client & Server. I must know how to read API docs
 #### 16 . Technical Interview
 
 - How to proceed technical interview : coding test + role playing
-- **Type check problem** (Run.js)
+- **Type check problem** (in *Run.js*)
 
 Today I took technical interview with *gomi corp*. I think it was very good experience, because it was my first technical interview. So, I did nothing today. zzz...
 
@@ -90,4 +90,25 @@ Today I took technical interview with *gomi corp*. I think it was very good expe
 - To make a chat room with scroll, I used *overflow* and *height* properties in CSS and typed simple JS codes that *scrolltop* is same with *scrollheight* : `chat.scrollTop = chat.scrollHeight;`
 
 To proceed a chatterbox splint is not difficult and funny. My team made a plan that makes the chatterbox with many functions. So, I'm afraid but curious about the chatterbox's quality.
+
+#### 18 . Last Interview
+
+Today I negotiated working conditions with *gomi corp*. They offered me nice conditions but told me to work from next week. It is too early to prepare. But they looks like good team and I want to work very soon. So I accepted this suggestion, this weekend I will study *React.js* for work.
+
+#### 19 . Pair for work
+
+- [*setTimeout* vs *setInterval*](https://stackoverflow.com/questions/2696692/setinterval-vs-settimeout)
+
+- [What is *Promise*?](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+
+#### 20 . Grid Layout
+
+- [How to use *CSS Grid Layout*](https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Grid_Layout)
+
+- grid-templete-columns
+- grid-templete-rows
+- grid-templete-areas
+- grid-gap
+
+Grid Layout is powerful tool to divide a page. It is fast to learn and easy to use. But it is possible to occur Cross Browsing problems.
 
