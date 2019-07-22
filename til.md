@@ -110,5 +110,30 @@ Today I negotiated working conditions with *gomi corp*. They offered me nice con
 - grid-templete-areas
 - grid-gap
 
-Grid Layout is powerful tool to divide a page. It is fast to learn and easy to use. But it is possible to occur Cross Browsing problems.
+**Grid Layout** is powerful tool to divide a page. It is fast to learn and easy to use. But it is possible to occur Cross Browsing problems.
 
+#### 21 . Browser Security & React Component
+
+- CORS : Cross-Origin Resourse Sharing
+  - Simple requests
+  - Preflighted requests
+  - Requests with credentials
+- ~~CSS~~ XSS : Cross-Site Script
+  - Attacker sends XSS payload
+  - Victim views XSS payload (Victim is a user)
+- CSRF or XSRF : Cross-Site Request Forgery
+- React makes tags, It is called *React Component* (like module)
+- To use React, we must knows these ES6 features
+  - *destructuring*
+  - *spread operator*
+  - *rest parameters*
+  - *default parameters*
+  - *template literals*
+  - *arrow function*
+  - *for-of loop*
+
+To commit every night is hard to me. I must commit tonight !!!
+
+#### 22 . React Tutorial
+
+- ​	
