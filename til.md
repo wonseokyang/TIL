@@ -122,7 +122,7 @@ Today I negotiated working conditions with *gomi corp*. They offered me nice con
   - Attacker sends XSS payload
   - Victim views XSS payload (Victim is a user)
 - CSRF or XSRF : Cross-Site Request Forgery
-- React makes tags, It is called *React Component* (like module)
+- React makes *tags*, It is called *React Component* (like module)
 - To use React, we must knows these ES6 features
   - *destructuring*
   - *spread operator*
@@ -134,6 +134,11 @@ Today I negotiated working conditions with *gomi corp*. They offered me nice con
 
 To commit every night is hard to me. I must commit tonight !!!
 
-#### 22 . React Tutorial
+#### 22 . Main Concepts about React
 
-- ​	
+- What is **JSX** ? : It is easy to use, looks like HTML
+- *Fuction Components* vs *Class Components* : whether or not there is a <u>state</u> and <u>lifecycle</u>
+- props
+- *Lifecycle methods* : `componentDidMount()`, `componentWillMount()`
+- setState
+
