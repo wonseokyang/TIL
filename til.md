@@ -142,3 +142,28 @@ To commit every night is hard to me. I must commit tonight !!!
 - *Lifecycle methods* : `componentDidMount()`, `componentWillMount()`
 - setState()
 
+#### 23 . Set-up gomicorp
+
+- Install *Node*.js & *Rails*
+- Make a React App with CSS Grid Layout
+- Relation with *App.js* and *index.js*
+
+#### 24 . Create a React App
+
+- Divide *App.js* into *Components*
+- [*App.js* is a *router* in react](https://ibrahimovic.tistory.com/32) 
+- [camelCasing & PascalCasing](https://yeop-blog.github.io/2017/09/29/2017-09-29-old-blog-post29/)
+- *before* & *after*
+- Install *SASS (SCSS)*
+
+It is first step to create a React application.
+
+#### 25 . Grid Layout
+
+- How to use media queries without bootstrap
+- minmax()
+- *auto-fit* vs *auto-fill*
+
+#### 26 . Shoot Schedule
+
+I don't know how to bind *this* in React.
