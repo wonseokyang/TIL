@@ -140,5 +140,5 @@ To commit every night is hard to me. I must commit tonight !!!
 - *Fuction Components* vs *Class Components* : whether or not there is a <u>state</u> and <u>lifecycle</u>
 - props
 - *Lifecycle methods* : `componentDidMount()`, `componentWillMount()`
-- setState
+- setState()
 
