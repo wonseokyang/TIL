@@ -158,3 +158,12 @@ To commit every night is hard to me. I must commit tonight !!!
 
 It is first step to create a React application.
 
+#### 25 . Grid Layout
+
+- How to use media queries without bootstrap
+- minmax()
+- *auto-fit* vs *auto-fill*
+
+#### 26 . Shoot Schedule
+
+I don't know how to bind *this* in React.
