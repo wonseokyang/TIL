@@ -167,3 +167,20 @@ It is first step to create a React application.
 #### 26 . Shoot Schedule
 
 I don't know how to bind *this* in React.
+
+#### 27 . How to Use Youtube API in React
+
+- How to get Youtube API using XHR
+- `JSON.parse(xhr.responseText)`
+- Deliver *props* and *state* to *components*
+
+We used Youtube API to search videos in youtube. It was hard to do, because there is an error with many requests. But tomorrow I will solve this problem.
+
+#### 28 . React Router
+
+- What is SPA?
+- How to use *react-router-dom*
+- *pages* and *components*
+
+Today I learned How to divided to pages to use a library called *react-router-dom*.
+
