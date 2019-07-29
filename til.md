@@ -161,14 +161,32 @@ It is first step to create a React application.
 #### 25 . Grid Layout
 
 - How to use media queries without bootstrap
-- minmax()
+- `minmax()`
 - *auto-fit* vs *auto-fill*
 
 #### 26 . Shoot Schedule
 
 I don't know how to bind *this* in React.
 
-#### 27 . Recast.ly
+#### 27 . How to Use Youtube API in React
 
-- What is End-point?
-- 
+- How to get Youtube API using XHR
+- `JSON.parse(xhr.responseText)`
+- Deliver *props* and *state* to *components*
+
+We used Youtube API to search videos in youtube. It was hard to do, because there is an error with many requests. But tomorrow I will solve this problem.
+
+#### 28 . React Router
+
+- What is SPA?
+- How to use *react-router-dom*
+- *pages* and *components*
+
+Today I learned How to divided to pages to use a library called *react-router-dom*.
+
+#### 29 . Complete Recast.ly
+
+- After invoking `onChange()` function, `setState()` function is called
+- Target value is changed in `<input>`, and you click a submit button when you are done
+- `onChange={props.change}`
+
