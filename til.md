@@ -186,12 +186,23 @@ Today I learned How to divided to pages to use a library called *react-router-do
 
 #### 29 . Complete Recast.ly
 
-- After invoking `onChange()` function, `setState()` function is called
-- Target value is changed in `<input>`, and you click a submit button when you are done
+- After invoking `onChange()` *function*, `setState()` *function* is called
+- Target value is changed in `<input>`, and you click a *submit button* when you are done
 - `onChange={props.change}`
 
 #### 30 . Reusable
 
-- Deliver a *location.path* to child component
-- Create a List *component* and Reuse it
-- Foldering components files
+- Deliver a *location.path* to *child components*
+- Create a ***List component*** and Reuse it
+- Foldering *component* files
+- What is *propTypes* in eslint?
+- How to prepare sample *objects*
+
+#### 31 . Dealing props
+
+- Structure the expected state that deliver *props* to *child components*
+- `const { title } = this.state` or `cont { title } = props`
+- Understand when use a *class keyword* and *arrow function* in React
+- How much divide to *components*?
+
+I Was Born to Do React. (*Like "I Was Born to Love You"*)
