@@ -190,3 +190,8 @@ Today I learned How to divided to pages to use a library called *react-router-do
 - Target value is changed in `<input>`, and you click a submit button when you are done
 - `onChange={props.change}`
 
+#### 30 . Reusable
+
+- Deliver a *location.path* to child component
+- Create a List *component* and Reuse it
+- Foldering components files
