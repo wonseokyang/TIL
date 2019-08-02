@@ -206,3 +206,14 @@ Today I learned How to divided to pages to use a library called *react-router-do
 - How much divide to *components*?
 
 I Was Born to Do React. (*Like "I Was Born to Love You"*)
+
+## 8
+
+#### 1 . Can I Use CSS Grid Layout
+
+- Grid Layout is the most powerful layout system
+- It is a 2-dimensional system, meaning it can handle both columns and rows
+- Flexbox is a 1-dimensional system.
+- Grid Layout polyfill does not exist, but what is this?
+- https://medium.com/@elad/supporting-css-grid-in-internet-explorer-b38669e75d66
+
