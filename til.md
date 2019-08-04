@@ -154,7 +154,7 @@ To commit every night is hard to me. I must commit tonight !!!
 - [*App.js* is a *router* in react](https://ibrahimovic.tistory.com/32) 
 - [camelCasing & PascalCasing](https://yeop-blog.github.io/2017/09/29/2017-09-29-old-blog-post29/)
 - *before* & *after*
-- Install *SASS (SCSS)*
+- [Install *SASS (SCSS)*](https://velog.io/@velopert/react-component-styling)
 
 It is first step to create a React application.
 
@@ -215,5 +215,20 @@ I Was Born to Do React. (*Like "I Was Born to Love You"*)
 - It is a 2-dimensional system, meaning it can handle both columns and rows
 - Flexbox is a 1-dimensional system.
 - Grid Layout polyfill does not exist, but what is this?
+
+#### 2 . Solve Grid Layout
+
 - https://medium.com/@elad/supporting-css-grid-in-internet-explorer-b38669e75d66
+- [Autoprefixer](https://github.com/postcss/autoprefixer)
+- *Redux* vs *Hooks*
+- Bingo problem (from Bj)
+
+
+
+#### 3 . Ready to Make To-Do List by React
+
+- *Axios* is a HTTP request library like fetch
+- What is React *Hooks*?
+- `npx create-react-app my-app` > `npm install --save react-router-dom` > `yarn add node-sass`
+- **styled-components** : `yarn add styled-components`
 
