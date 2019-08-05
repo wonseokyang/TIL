@@ -230,9 +230,10 @@ I Was Born to Do React. (*Like "I Was Born to Love You"*)
 
 - *Axios* is a HTTP request library like fetch
 - What is React *Hooks*?
-- `npx create-react-app my-app` > `npm install --save react-router-dom` > `yarn add node-sass`
+- `yarn create-react-app my-app` > `yarn add node-sass` >  `npm install --save react-router-dom`(when Routing is needed)
 - **styled-components** : `yarn add styled-components`
 
 #### 4 . Happppy Birthday
 
 Yesterday is my mother-in-law's birthday. So we had a party today, and I didn't do anything.
+
