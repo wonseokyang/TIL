@@ -241,4 +241,6 @@ Yesterday is my mother-in-law's birthday. So we had a party today, and I didn't 
 
 - The motivation of *React Hooks* is to reuse stateful logic between components
 - [When to use *useState* or *useReducer*?](https://www.robinwieruch.de/react-usereducer-vs-usestate/#usestate-vs-usereducer)
-- 
+- *Hooks* are available in *React* 16.8 (ver)
+- *Hooks* is used with *props*: It is possible!!
+
