@@ -237,3 +237,8 @@ I Was Born to Do React. (*Like "I Was Born to Love You"*)
 
 Yesterday is my mother-in-law's birthday. So we had a party today, and I didn't do anything.
 
+#### 5 . React Hooks
+
+- The motivation of *React Hooks* is to reuse stateful logic between components
+- [When to use *useState* or *useReducer*?](https://www.robinwieruch.de/react-usereducer-vs-usestate/#usestate-vs-usereducer)
+- 
