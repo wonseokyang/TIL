@@ -220,6 +220,7 @@ I Was Born to Do React. (*Like "I Was Born to Love You"*)
 
 - https://medium.com/@elad/supporting-css-grid-in-internet-explorer-b38669e75d66
 - [Autoprefixer](https://github.com/postcss/autoprefixer)
+- Grid Layout to make same width : `grid-template-columns: repeat(auto-fit, minmax(0, 1fr));`
 - *Redux* vs *Hooks*
 - Bingo problem (from Bj)
 
@@ -232,3 +233,6 @@ I Was Born to Do React. (*Like "I Was Born to Love You"*)
 - `npx create-react-app my-app` > `npm install --save react-router-dom` > `yarn add node-sass`
 - **styled-components** : `yarn add styled-components`
 
+#### 4 . Happppy Birthday
+
+Yesterday is my mother-in-law's birthday. So we had a party today, and I didn't do anything.
