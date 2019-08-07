@@ -122,7 +122,7 @@ Today I negotiated working conditions with *gomi corp*. They offered me nice con
   - Attacker sends XSS payload
   - Victim views XSS payload (Victim is a user)
 - CSRF or XSRF : Cross-Site Request Forgery
-- React makes *tags*, It is called *React Component* (like module)
+- *React* makes *tags*, It is called *React Component* (like module)
 - To use React, we must knows these ES6 features
   - *destructuring*
   - *spread operator*
@@ -138,9 +138,9 @@ To commit every night is hard to me. I must commit tonight !!!
 
 - What is **JSX** ? : It is easy to use, looks like HTML
 - *Fuction Components* vs *Class Components* : whether or not there is a <u>state</u> and <u>lifecycle</u>
-- props
+- *props*
 - *Lifecycle methods* : `componentDidMount()`, `componentWillMount()`
-- setState()
+- `setState()`
 
 #### 23 . Set-up gomicorp
 
@@ -224,8 +224,6 @@ I Was Born to Do React. (*Like "I Was Born to Love You"*)
 - *Redux* vs *Hooks*
 - Bingo problem (from Bj)
 
-
-
 #### 3 . Ready to Make To-Do List by React
 
 - *Axios* is a HTTP request library like fetch
@@ -243,4 +241,12 @@ Yesterday is my mother-in-law's birthday. So we had a party today, and I didn't 
 - [When to use *useState* or *useReducer*?](https://www.robinwieruch.de/react-usereducer-vs-usestate/#usestate-vs-usereducer)
 - *Hooks* are available in *React* 16.8 (ver)
 - *Hooks* is used with *props*: It is possible!!
+
+#### 6 . Refactor to use Hooks
+
+- Remove *class* keywords : *class* & *extends* is not needed
+- Only Use Hooks in *components* that consist of a *const* keyword
+- Do not use `setState()`, but use `useState()`
+
+Using *React Hooks* is better than using pure React. I'm satisfied *Hooks*. And maybe It is better than *Redux*.
 
