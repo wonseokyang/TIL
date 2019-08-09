@@ -250,3 +250,16 @@ Yesterday is my mother-in-law's birthday. So we had a party today, and I didn't 
 
 Using *React Hooks* is better than using pure React. I'm satisfied *Hooks*. And maybe It is better than *Redux*.
 
+#### 7 . Miss TIL
+
+This day was too busy because of works. I don't remember anything.
+
+#### 8 . useState & useEffect
+
+- How to use `useState()` and `useEffect()`
+  - These are basics of *React Hooks*
+
+- Possible to re-render other components with delivering *props*
+- Don't need to place `useState()` with setMethod such as setValue
+- Don't need to place `useEffect()` in parent component
+
