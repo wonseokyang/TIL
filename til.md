@@ -263,3 +263,18 @@ This day was too busy because of works. I don't remember anything.
 - Don't need to place `useState()` with setMethod such as setValue
 - Don't need to place `useEffect()` in parent component
 
+#### 9 . Create To-do List App
+
+- Manage *checked value* in radio input using React Hooks
+- Concat new object to data list in React
+
+#### 10 . useEffect
+
+What is `useEffect()`? I don't understand when it is needed.
+
+#### 11 . Props and State
+
+- **props** are variables passed to it by its parent component
+- **State** on the other hand is still variables, but directly initialized and managed by the component
+- The state can be initialized by props
+
