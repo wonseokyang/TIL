@@ -268,13 +268,18 @@ This day was too busy because of works. I don't remember anything.
 - Manage *checked value* in radio input using React Hooks
 - Concat new object to data list in React
 
-#### 10 . useEffect
+#### 10 . useState & useEffect ???
 
-What is `useEffect()`? I don't understand when it is needed.
+- [Is useState() asynchronous?](https://stackoverflow.com/questions/54119678/is-usestate-synchronous)
+- What is `useEffect()`? I don't understand when it is needed.
 
 #### 11 . Props and State
 
 - **props** are variables passed to it by its parent component
 - **State** on the other hand is still variables, but directly initialized and managed by the component
 - The state can be initialized by props
+
+#### 12 . Test
+
+Pure *React*(like setState) has many many this.state blah blah. *React Hooks* is simple than pure *React*. *Recursion* is still hard to me....
 
