@@ -228,7 +228,7 @@ I Was Born to Do React. (*Like "I Was Born to Love You"*)
 
 - *Axios* is a HTTP request library like fetch
 - What is React *Hooks*?
-- `yarn create-react-app my-app` > `yarn add node-sass` >  `npm install --save react-router-dom`(when Routing is needed)
+- `npx create-react-app my-app` > `yarn add node-sass` >  `yarn add react-router-dom`(when Routing is needed)
 - **styled-components** : `yarn add styled-components`
 
 #### 4 . Happppy Birthday
@@ -242,7 +242,7 @@ Yesterday is my mother-in-law's birthday. So we had a party today, and I didn't 
 - *Hooks* are available in *React* 16.8 (ver)
 - *Hooks* is used with *props*: It is possible!!
 
-#### 6 . Refactor to use Hooks
+#### 6 . Refactoring to use Hooks
 
 - Remove *class* keywords : *class* & *extends* is not needed
 - Only Use Hooks in *components* that consist of a *const* keyword
@@ -263,7 +263,7 @@ This day was too busy because of works. I don't remember anything.
 - Don't need to place `useState()` with setMethod such as setValue
 - Don't need to place `useEffect()` in parent component
 
-#### 9 . Create To-do List App
+#### 9 . Create a To-do List App
 
 - Manage *checked value* in radio input using React Hooks
 - Concat new object to data list in React
@@ -283,3 +283,16 @@ This day was too busy because of works. I don't remember anything.
 
 Pure *React*(like setState) has many many this.state blah blah. *React Hooks* is simple than pure *React*. *Recursion* is still hard to me....
 
+#### 13 . Refactoring
+
+- Where to place the scss files
+- Use *React Hooks*
+
+####14 . Create a Hiring Assessment To-do
+
+- How to create a *New React App*: repeat
+- Use only *styled-components*: It's weird to me
+
+#### 15-18 . Summer Vacation
+
+#### 19 . 
