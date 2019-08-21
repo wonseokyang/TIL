@@ -295,4 +295,16 @@ Pure *React*(like setState) has many many this.state blah blah. *React Hooks* is
 
 #### 15-18 . Summer Vacation
 
-#### 19 . 
+#### 19 . Make a Modal
+
+- [React Modal](https://www.npmjs.com/package/react-modal)
+
+- [React Modal Hook](https://www.npmjs.com/package/react-modal-hook)
+
+#### 20 . Prepare a New Project
+
+- How to use styled-components : Button, Link, Label, so on
+- [What is Redux](https://lunit.gitbook.io/redux-in-korean/)
+
+- Why to use Redux
+
