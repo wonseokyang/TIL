@@ -308,3 +308,9 @@ Pure *React*(like setState) has many many this.state blah blah. *React Hooks* is
 
 - Why to use Redux
 
+#### 21 . How to work Redux
+
+- `nvm install 10.16.3`
+- `nvm alias`
+- `yarn import` : Generates `yarn.lock` from an npm `package-lock.json` file in the same location or an existing npm-installed `node_modules` folder
+- `const store = createStore();`
