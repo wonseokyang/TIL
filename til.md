@@ -293,7 +293,7 @@ Pure *React*(like setState) has many many this.state blah blah. *React Hooks* is
 - How to create a *New React App*: repeat
 - Use only *styled-components*: It's weird to me
 
-#### 15-18 . Summer Vacation
+#### 15 - 18 . Summer Vacation
 
 #### 19 . Make a Modal
 
@@ -314,3 +314,69 @@ Pure *React*(like setState) has many many this.state blah blah. *React Hooks* is
 - `nvm alias`
 - `yarn import` : Generates `yarn.lock` from an npm `package-lock.json` file in the same location or an existing npm-installed `node_modules` folder
 - `const store = createStore();`
+
+#### 22 . Routing
+
+- https://cors-anywhere.herokuapp.com/
+
+- `import { BrowserRouter as Router, Route, Link } from "react-router-dom";`
+
+- `yarn add cross-env --dev`
+
+  - package.json
+
+  - ```javascript
+    "scripts": {
+      "start": "cross-env NODE_PATH=src react-scripts start",
+      "build": "cross-env NODE_PATH=src react-scripts build",
+      "test": "react-scripts test --env=jsdom",
+      "eject": "react-scripts eject"
+    }
+    ```
+
+  - eslintrc.json
+
+    ```javascript
+    "settings": {
+      "import/resolver": {
+        "node": {
+          "paths": ["src"]
+        }
+      }
+    }
+    ```
+
+
+#### 23 . Carousel
+
+- [pure-react-carousel](https://www.npmjs.com/package/pure-react-carousel#dev-workflow)
+- react-slick : React carousel component
+
+#### 24 . Server & Client
+
+- CORS : Cross-Origin Resource Sharing
+- npm & package.json
+- RESTful API
+- Javascript Event loop : Asynchronous
+
+#### 25 . Rest
+
+#### 26 . React Hooks VS Redux
+
+- [React Hooks replace Redux](https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672)
+- [How to fetch data in React](https://www.robinwieruch.de/react-fetching-data) : How fetch API works
+
+#### 27 . Input Error with useState
+
+- Styled-component should be placed an React component function's outside
+- [UI Component](https://ko.reactjs.org/community/ui-components.html)
+- [React component](https://github.com/react-component/)
+
+#### 28 . React Design Pattern
+
+- Presentational and Container Components
+- [An example to use React with styled-component & Presentational and Container Components](https://velog.io/@bosco/TOY-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%AA%A8%EB%A9%98%ED%85%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
+- [React Structure](https://ko.reactjs.org/docs/faq-structure.html)
+- How to structure React Components
+
+#### 29 . 
