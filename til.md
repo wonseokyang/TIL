@@ -354,7 +354,7 @@ Pure *React*(like setState) has many many this.state blah blah. *React Hooks* is
 
 #### 24 . Server & Client
 
-- CORS : Cross-Origin Resource Sharing
+- **CORS** : Cross-Origin Resource Sharing
 - npm & package.json
 - RESTful API
 - Javascript Event loop : Asynchronous
@@ -374,9 +374,15 @@ Pure *React*(like setState) has many many this.state blah blah. *React Hooks* is
 
 #### 28 . React Design Pattern
 
-- Presentational and Container Components
+- **Presentational and Container** Components
 - [An example to use React with styled-component & Presentational and Container Components](https://velog.io/@bosco/TOY-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%AA%A8%EB%A9%98%ED%85%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
 - [React Structure](https://ko.reactjs.org/docs/faq-structure.html)
 - How to structure React Components
 
-#### 29 . 
+#### 29 . Reuse Components
+
+- Reuse **Container and Background Image** components 
+- Set-up **Layout components**
+- Fetch with Authrization and Encoding by Base64
+
+#### 
