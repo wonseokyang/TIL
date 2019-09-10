@@ -384,5 +384,30 @@ Pure *React*(like setState) has many many this.state blah blah. *React Hooks* is
 - Reuse **Container and Background Image** components 
 - Set-up **Layout components**
 - Fetch with Authrization and Encoding by Base64
+- `.env`
 
-#### 
+#### 30 . Busy Day
+
+#### 31 . Promise
+
+- [What is Promise?](https://medium.com/@kiwanjung/%EB%B2%88%EC%97%AD-async-await-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%A0%84%EC%97%90-promise%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-955dbac2c4a4)
+
+- https://www.valentinog.com/blog/http-requests-node-js-async-await/
+
+## 9
+
+#### 1 . Rest
+
+#### 2 . Refactoring
+
+- To make components **reusable**
+- Make a **helper function** to parse by type
+
+#### 3 . Complete Home Screen
+
+#### 4 - 6. Complete Category, Brand, Pick Screens
+
+#### 7 - 8. GomKerTon
+
+#### 9 - 10.  Complete Contact, Paper(Terms) Screens
+
