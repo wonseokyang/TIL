@@ -411,3 +411,11 @@ Pure *React*(like setState) has many many this.state blah blah. *React Hooks* is
 
 #### 9 - 10.  Complete Contact, Paper(Terms) Screens
 
+#### 11 . Deploy React
+
+- How to deploy React App
+- https://react-etc.vlpt.us/08.deploy-s3.html
+- CloudFront
+- What does "Purge Cache" mean?
+- yarn build && yarn deploy && yarn invalidate
+
