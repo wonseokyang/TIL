@@ -405,11 +405,11 @@ Pure *React*(like setState) has many many this.state blah blah. *React Hooks* is
 
 #### 3 . Complete Home Screen
 
-#### 4 - 6. Complete Category, Brand, Pick Screens
+#### 4 - 6 . Complete Category, Brand, Pick Screens
 
-#### 7 - 8. GomKerTon
+#### 7 - 8 . GomKerTon
 
-#### 9 - 10.  Complete Contact, Paper(Terms) Screens
+#### 9 - 10 .  Complete Contact, Paper(Terms) Screens
 
 #### 11 . Deploy React
 
@@ -418,4 +418,8 @@ Pure *React*(like setState) has many many this.state blah blah. *React Hooks* is
 - CloudFront
 - What does "Purge Cache" mean?
 - yarn build && yarn deploy && yarn invalidate
+
+#### 12 - 15 . Korean Thanksgiving Day & Work
+
+- https://www.npmjs.com/package/react-image-magnify
 
