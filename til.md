@@ -288,7 +288,7 @@ Pure *React*(like setState) has many many this.state blah blah. *React Hooks* is
 - Where to place the scss files
 - Use *React Hooks*
 
-####14 . Create a Hiring Assessment To-do
+#### 14 . Create a Hiring Assessment To-do
 
 - How to create a *New React App*: repeat
 - Use only *styled-components*: It's weird to me
